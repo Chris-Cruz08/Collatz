@@ -1,1 +1,1 @@
-The first file is a PHP file for Collatz Conjecture for which it calculates for a range of numbers and single number. The 2nd file is Collatz Conjecture with Arithmetic Progression and the 3rd file is the with the Histogram.
+The 3x+1(1) is a PHP file for Collatz Conjecture for which it calculates for a range of numbers and single number. The 2nd file is Collatz Conjecture with Arithmetic Progression and the 3rd file is the with the Histogram.
